@@ -12,7 +12,7 @@
 
 -(NSString *) getOtherStringFromDependency
 {
-    return @"This is a string from our other dependency.";
+    return @"This is a string from our other dependency BRANCH bugfix #4321.";
 }
 
 @end
